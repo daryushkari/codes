@@ -1,0 +1,7 @@
+https://snap.stanford.edu/data/index.html
+https://snap.stanford.edu/data/roadNet-PA.html
+https://snap.stanford.edu/data/roadNet-CA.html
+https://snap.stanford.edu/data/roadNet-TX.html
+https://snap.stanford.edu/data/com-Youtube.html
+https://snap.stanford.edu/data/web-Google.html
+https://snap.stanford.edu/data/ego-Twitter.html
